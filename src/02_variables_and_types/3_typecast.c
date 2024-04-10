@@ -13,7 +13,7 @@ void main()
 
     /** Some castings are implicit */
     int num = avg;
-    printf("\nNum = %d \n", a, b, num);
+    printf("\nNum = %d \n", num);
 
 
     float pi_f = 3.142857142857142793701541449991054832935333251953125; 

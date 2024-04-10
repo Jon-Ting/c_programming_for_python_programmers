@@ -5,6 +5,8 @@
 void main()
 {
     int x = Value;
+    int y = Value;
+    int z = Value;
 
-    printf("\nX = %d \n\n", x);
+    printf("\nX = %d %d %d \n\n", x, y, z);
 }

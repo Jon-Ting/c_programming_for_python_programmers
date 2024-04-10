@@ -8,3 +8,4 @@ void main()
 
     printf("\nX = %d \n\n", x);
 }
+
